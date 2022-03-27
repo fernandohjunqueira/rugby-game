@@ -13,7 +13,7 @@
 // Macros
 #define UNUSED(x) (void)(x) // Auxiliary to avoid error of unused parameter
 
-// Sines
+// Tangents 
 #define TAN1 0.4142135624 // Tangent of pi/8 radians (22.5°) 
 #define TAN2 2.4142135624 // Tangent of 3*pi/8 radians (67.5°)
 
